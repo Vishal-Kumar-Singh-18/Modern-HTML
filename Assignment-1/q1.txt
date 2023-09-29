@@ -1,0 +1,25 @@
+Q. List out features of HTML5?
+
+HTML5, the fifth and latest version of the Hypertext Markup Language used for creating web pages and web applications, introduced several new features and enhancements. Here's a list of some key features of HTML5:
+
+1. Semantic Elements: HTML5 introduced new semantic elements like `<article>`, `<section>`, `<header>`, `<footer>`, `<nav>`, `<aside>`, and `<figure>` to provide better structure and meaning to the content.
+
+2. Audio and Video Support: HTML5 includes native support for embedding audio and video content using `<audio>` and `<video>` elements, reducing the need for third-party plugins like Flash.
+
+3. Canvas: HTML5 introduced the `<canvas>` element, which allows dynamic rendering of graphics and images directly within the browser, enabling the creation of interactive games and animations.
+
+4. Offline Web Applications: HTML5 provides features like Application Cache and Web Storage (localStorage and sessionStorage) that enable web applications to work offline and store data locally.
+
+5. Web Workers: HTML5 introduced the concept of web workers, which are background scripts that can run concurrently with the main JavaScript thread, improving the performance and responsiveness of web applications.
+
+6. Geolocation: HTML5 allows websites to access the user's geographical location through the Geolocation API, enabling location-based services and applications.
+
+7. Drag and Drop: HTML5 provides native support for drag-and-drop interactions, making it easier to implement intuitive and interactive user interfaces.
+
+8. Form Enhancements: HTML5 introduced several new input types (`<input type="date">`, `<input type="email">`, etc.) and attributes (such as `required`, `placeholder`, and `pattern`) to enhance form validation and user experience.
+
+9. Improved Accessibility: HTML5 introduced several features and attributes to enhance web accessibility, making it easier for developers to create websites that are usable by people with disabilities.
+
+10. New Doctype: HTML5 introduced a simpler and more straightforward `<!DOCTYPE html>` declaration at the beginning of HTML documents, making it easier to write and understand HTML code.
+
+These features have collectively contributed to a more powerful, interactive, and user-friendly web experience. Keep in mind that this list covers some of the major features, and HTML5 includes many other enhancements and improvements as well.
